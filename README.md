@@ -1,2 +1,5 @@
-# Content-Generation-Resources
-Resources for Data Generation 
+# Content-Generation
+
+# Data-Generation
+
+# Inference-Optimization
