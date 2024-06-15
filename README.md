@@ -6,7 +6,9 @@
 *N Anantrasirichai, D Bull.*<br>
 Artifcial Intelligence Review, 2021. 
 
-## Image Generation
+## Image 
+
+### Generation
 
 **Image Generation from Layout.**<br>
 *B Zhao, L Meng, W Yin, L Sigal.*<br>
@@ -70,7 +72,39 @@ NIPS, 2021.
 *X Pan, X Zhan, B Dai, D Lin, CC Loy, et al.*<br>
 TPAMI, 2021.
 
-## Video Generation
+### Manipulation
+
+**Learning Rich Features for Image Manipulation Detection.**<br>
+*P Zhou, X Han, VI Morariu, et al.*<br>
+CVPR, 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf)]
+
+**Faceforensics++: Learning to detect manipulated facial images.**<br>
+*A Rossler, D Cozzolino, L Verdoliva, et al.*<br>
+CVPR, 2019.
+
+**Constrained R-CNN A general image manipulation detection model.**<br>
+*C Yang, H Li, F Lin, B Jiang, et al.*<br>
+ICME, 2020. [[PDF](https://arxiv.org/pdf/1911.08217.pdf)]
+
+**Media Forensics and DeepFakes.**<br>
+*L Verdoliva.*<br>
+IEEE Journal of Selected Topics in Signal Processing, 2020. [[PDF](https://arxiv.org/pdf/2001.06564.pdf)]
+
+**The creation and detection of deepfakes: A survey.**<br>
+*Y Mirsky, W Lee.*<br>
+ACM Computing Surveys (CSUR), 2021.
+
+**Multi-Modality Image Manipulation Detection.**<br>
+*C Yang, Z Wang, H Shen, H Li, et al.*<br>
+ICME, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9428232)]
+
+**Adversarial deepfakes: Evaluating vulnerability of deepfake detectors to adversarial examples.**<br>
+*S Hussain, P Neekhara, M Jere, et al.*<br>
+WACV, 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Hussain_Adversarial_Deepfakes_Evaluating_Vulnerability_of_Deepfake_Detectors_to_Adversarial_Examples_WACV_2021_paper.pdf)]
+
+## Video 
+
+### Generation
 
 **Video to Video Synthesis.**<br>
 *TC Wang, MY Liu, JY Zhu, G Liu, A Tao, J Kautz, et al.*<br>
@@ -90,7 +124,27 @@ CVPR, 2021.
 ICLR, 2021.
 [[PDF](https://arxiv.org/pdf/2104.15069.pdf)]
 
-## Text Generation
+### Manipulation
+
+**Deepfake Video Detection Using Recurrent Neural Networks.**<br>
+*D Güera, EJ Delp.*<br>
+AVSS, 2018. [[PDF](https://gangw.cs.illinois.edu/class/cs598/papers/AVSS18-deepfake.pdf)]
+
+**Faceforensics: A large-scale video dataset for forgery detection in human faces.**<br>
+*A Rössler, D Cozzolino, L Verdoliva, C Riess, et al.*<br>
+ArXiv, 2018. [[PDF](https://arxiv.org/pdf/1803.09179v1.pdf)]
+
+**Mesonet: a compact facial video forgery detection network.**<br>
+*D Afchar, V Nozick, J Yamagishi, et al.*<br>
+WIFS, 2018. [[PDF](https://igm.univ-mlv.fr/~vnozick/publications/afchar_WIFS_2018/afchar_WIFS_2018.pdf)]
+
+**Face Forensics in the Wild.**<br>
+*T Zhou, W Wang, Z Liang, et al.*<br>
+CVPR, 2021.
+
+## Text 
+
+### Generation
 
 **awesome-text-generation.**<br>
 [[Github](https://github.com/ChenChengKuan/awesome-text-generation)]
@@ -98,7 +152,23 @@ ICLR, 2021.
 **NLP Text Generation.**<br>
 [[Github](https://github.com/TZ-Physics/MMBDA/tree/master/07NLP/04Generation)]
 
-## Audio Generation
+### Manipulation
+
+**Online handwritten signature verification using feature weighting algorithm relief.**<br>
+*L Yang, Y Cheng, X Wang, Q Liu.*<br>
+Soft Computing, 2018. [[PDF](https://link.springer.com/article/10.1007/s00500-018-3477-2)]
+
+**Characterizing and evaluating adversarial examples for Offline Handwritten Signature Verification.**<br>
+*LG Hafemann, R Sabourin, et al.*<br>
+IEEE Transactions on Information Forensics and Security, 2020. [[PDF](https://arxiv.org/pdf/1901.03398.pdf)]
+
+**TextStyleBrush: Transfer of Text Aesthetics from a Single Example.**<br>
+*P Krishnan, R Kovvuri, G Pang, B Vassilev, et al.*<br>
+ArXiv, 2021. [[PDF](https://arxiv.org/pdf/2106.08385)]
+
+## Audio 
+
+### Generation
 
 **Wavenet: A generative model for raw audio.**<br>
 *A Oord, S Dieleman, H Zen, K Simonyan, et al.*<br>
@@ -116,4 +186,20 @@ ICLR, 2019.
 *Magenta is a research project exploring the role of machine learning in the process of creating art and music.*<br>
 [[Github](https://github.com/magenta/magenta)]
 
+### Manipulation
 
+**All your voices are belong to us: Stealing voices to fool humans and machines.**<br>
+*D Mukhopadhyay, M Shirvanian, N Saxena.*<br>
+ESORICS, 2015. [[PDF](https://cpb-us-w2.wpmucdn.com/sites.uab.edu/dist/f/65/files/2019/12/mss-esorics15.pdf)]
+
+**Deepsonar: Towards effective and robust detection of ai-synthesized fake voices.**<br>
+*R Wang, F Juefei-Xu, Y Huang, Q Guo, X Xie, et al.*<br>
+MM, 2018. [[PDF](https://arxiv.org/pdf/2005.13770.pdf)]
+
+**ASVspoof 2019: Future horizons in spoofed and fake audio detection.**<br>
+*M Todisco, X Wang, V Vestman, M Sahidullah, et al.*<br>
+ArXiv, 2019. [[PDF](https://arxiv.org/pdf/1904.05441)]
+
+**Deep4SNet: deep learning for fake speech classification.**<br>
+*DM Ballesteros, Y Rodriguez-Ortega, D Renza, et al.*<br>
+ESWA, 2021. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417421008770)]
