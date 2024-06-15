@@ -1,4 +1,4 @@
-# Content Generation
+# Multimodal Content Generation
 
 ## Review
 
