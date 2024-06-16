@@ -76,6 +76,10 @@ NIPS, 2021.
 *X Pan, X Zhan, B Dai, D Lin, CC Loy, et al.*<br>
 TPAMI, 2021.
 
+**Condition-Aware Neural Network for Controlled Image Generation.**<br>
+*H Cai, M Li, Q Zhang, MY Liu, S Han.*<br>
+CVPR, 2024.
+
 ### Manipulation
 
 **Learning Rich Features for Image Manipulation Detection.**<br>
