@@ -203,3 +203,19 @@ ArXiv, 2019. [[PDF](https://arxiv.org/pdf/1904.05441)]
 **Deep4SNet: deep learning for fake speech classification.**<br>
 *DM Ballesteros, Y Rodriguez-Ortega, D Renza, et al.*<br>
 ESWA, 2021. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417421008770)]
+
+## 3D
+
+### Generation
+
+**Dreamfusion: Text-to-3d using 2d diffusion.**<br>
+*B Poole, A Jain, JT Barron, B Mildenhall.*<br>
+arXiv:2209.14988, 2022.
+
+**Magic3d: High-resolution text-to-3d content creation.**<br>
+*CH Lin, J Gao, L Tang, T Takikawa, X Zeng, X Huang, K Kreis, S Fidler, MY Liu, TY Lin.*<br>
+CVPR, 2023.
+
+**Make-it-3d: High-fidelity 3d creation from a single image with diffusion prior.**<br>
+*J Tang, T Wang, B Zhang, T Zhang, R Yi, L Ma, D Chen.*<br>
+ICCV, 2023.
