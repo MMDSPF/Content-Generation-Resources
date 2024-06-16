@@ -6,6 +6,10 @@
 *N Anantrasirichai, D Bull.*<br>
 Artifcial Intelligence Review, 2021. 
 
+**A complete survey on generative ai (aigc): Is chatgpt from gpt-4 to gpt-5 all you need?.**<br>
+*C Zhang, C Zhang, S Zheng, Y Qiao, C Li, et al.*<br>
+arXiv, 2023. 
+
 ## Image 
 
 ### Generation
