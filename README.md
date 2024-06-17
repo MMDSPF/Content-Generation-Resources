@@ -137,6 +137,16 @@ CVPR, 2021.
 ICLR, 2021.
 [[PDF](https://arxiv.org/pdf/2104.15069.pdf)]
 
+**From Sora What We Can See: A Survey of Text-to-Video Generation.**<br>
+*R Sun, Y Zhang, T Shah, J Sun, S Zhang, W Li, H Duan, B Wei, R Ranjan.*<br>
+arXiv:2405.10674, 2024.
+[[PDF](https://arxiv.org/pdf/2405.10674)]
+
+**Sora as an agi world model? a complete survey on text-to-video generation.**<br>
+*J Cho, FD Puspitasari, S Zheng, J Zheng, LH Lee, TH Kim, CS Hong, C Zhang.*<br>
+arXiv:2403.05131, 2024.
+[[PDF](https://arxiv.org/pdf/2403.05131)]
+
 ### Manipulation
 
 **Deepfake Video Detection Using Recurrent Neural Networks.**<br>
