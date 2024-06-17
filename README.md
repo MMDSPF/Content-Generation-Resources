@@ -10,6 +10,11 @@ Artifcial Intelligence Review, 2021.
 *C Zhang, C Zhang, S Zheng, Y Qiao, C Li, et al.*<br>
 arXiv, 2023. 
 
+**State of the art on diffusion models for visual computing.**<br>
+*R Po, W Yifan, V Golyanik, K Aberman, JT Barron, AH Bermano, ER Chan, T Dekel, et al.*<br>
+arXiv:2310.07204, 2023 
+[[Paper](https://arxiv.org/pdf/2310.07204)]
+
 ## Image 
 
 ### Generation
@@ -17,13 +22,13 @@ arXiv, 2023.
 **Image Generation from Layout.**<br>
 *B Zhao, L Meng, W Yin, L Sigal.*<br>
 CVPR, 2019. 
-[[PDF](https://arxiv.org/pdf/2104.11487.pdf)]
+[[Paper](https://arxiv.org/pdf/2104.11487.pdf)]
 [[Github](https://github.com/zhaobozb/layout2im)]
 
 **Intelligent design of multimedia content in Alibaba.**<br>
 *K. Liu, and et al.*<br>
 Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
-[[PDF](https://arxiv.org/pdf/2104.11487.pdf)]
+[[Paper](https://arxiv.org/pdf/2104.11487.pdf)]
 [[Github](https://github.com/zhaobozb/layout2im)]
 
 **Content-aware generative modeling of graphic design layouts.**<br>
