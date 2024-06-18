@@ -19,11 +19,39 @@ arXiv:2310.07204, 2023
 
 ### Generation
 
+#### Layout
+
 **Image Generation from Layout.**<br>
 *B Zhao, L Meng, W Yin, L Sigal.*<br>
 CVPR, 2019. 
 [[Paper](https://arxiv.org/pdf/2104.11487.pdf)]
 [[Github](https://github.com/zhaobozb/layout2im)]
+
+**Layout2image Image Generation from Layout.**<br>
+*B Zhao, W Yin, L Meng, L Sigal.*<br>
+IJCV, 2020. 
+
+#### Editing
+
+**In-domain gan inversion for real image editing.**<br>
+*J Zhu, Y Shen, D Zhao, B Zhou.*<br>
+ECCV, 2020.
+
+**Anycost gans for interactive image synthesis and editing.**<br>
+*J Lin, R Zhang, F Ganz, S Han, et al.*<br>
+CVPR, 2021.
+
+**EditGAN: High-Precision Semantic Image Editing.**<br>
+*H Ling, K Kreis, D Li, SW Kim, et al.*<br>
+NIPS, 2021.
+
+#### Controllable
+
+**Condition-Aware Neural Network for Controlled Image Generation.**<br>
+*H Cai, M Li, Q Zhang, MY Liu, S Han.*<br>
+CVPR, 2024.
+
+#### Applications
 
 **Intelligent design of multimedia content in Alibaba.**<br>
 *K. Liu, and et al.*<br>
@@ -35,14 +63,6 @@ Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
 *X Zheng, X Qiao, Y Cao, RWH Lau.*<br>
 TOG, 2019.
 
-**Content-aware generative modeling of graphic design layouts.**<br>
-*X Zheng, X Qiao, Y Cao, RWH Lau.*<br>
-TOG, 2019.
-
-**In-domain gan inversion for real image editing.**<br>
-*J Zhu, Y Shen, D Zhao, B Zhou.*<br>
-ECCV, 2020.
-
 **Automatic synthesis of advertising images according to a specified style.**<br>
 *W. You, and et al.*<br>
 Front Inform Technol Electron Eng, 2020.
@@ -53,10 +73,6 @@ Front Inform Technol Electron Eng, 2020.
 *S Vempati, KT Malayil, V Sruthi, R Sandeep.*<br>
 FRS, 2020.
 
-**Layout2image Image Generation from Layout.**<br>
-*B Zhao, W Yin, L Meng, L Sigal.*<br>
-IJCV, 2020. 
-
 **N\" uwa: Visual synthesis pre-training for neural visual world creation.**<br>
 *C Wu, J Liang, L Ji, F Yang, Y Fang, D Jiang, et al.*<br>
 ArXiv, 2021. 
@@ -65,25 +81,9 @@ ArXiv, 2021.
 *S Guo, Z Jin, F Sun, J Li, Z Li, Y Shi, N Cao.*<br>
 CHI, 2021.
 
-**Anycost gans for interactive image synthesis and editing.**<br>
-*J Lin, R Zhang, F Ganz, S Han, et al.*<br>
-CVPR, 2021.
-
 **Preparing for an era of deepfakes and AI-generated ads: A framework for understanding responses to manipulated advertising.**<br>
 *C Campbell, K Plangger, S Sands, et al.*<br>
 Journal of Advertisment, 2021.
-
-**EditGAN: High-Precision Semantic Image Editing.**<br>
-*H Ling, K Kreis, D Li, SW Kim, et al.*<br>
-NIPS, 2021.
-
-**Exploiting deep generative prior for versatile image restoration and manipulation.**<br>
-*X Pan, X Zhan, B Dai, D Lin, CC Loy, et al.*<br>
-TPAMI, 2021.
-
-**Condition-Aware Neural Network for Controlled Image Generation.**<br>
-*H Cai, M Li, Q Zhang, MY Liu, S Han.*<br>
-CVPR, 2024.
 
 ### Manipulation
 
@@ -114,6 +114,10 @@ ICME, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9428232)]
 **Adversarial deepfakes: Evaluating vulnerability of deepfake detectors to adversarial examples.**<br>
 *S Hussain, P Neekhara, M Jere, et al.*<br>
 WACV, 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Hussain_Adversarial_Deepfakes_Evaluating_Vulnerability_of_Deepfake_Detectors_to_Adversarial_Examples_WACV_2021_paper.pdf)]
+
+**Exploiting deep generative prior for versatile image restoration and manipulation.**<br>
+*X Pan, X Zhan, B Dai, D Lin, CC Loy, et al.*<br>
+TPAMI, 2021.
 
 ## Video 
 
