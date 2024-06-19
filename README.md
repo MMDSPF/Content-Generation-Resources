@@ -58,6 +58,13 @@ CVPR, 2024.
 CVPR, 2023.
 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf)]
 
+#### Fusion
+
+**Current advances and future perspectives of image fusion: A comprehensive review.**<br>
+*S Karim, G Tong, J Li, A Qadir, U Farooq, Y Yu .*<br>
+Information Fusion, 2023.
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001518)]
+
 #### Applications
 
 **Intelligent design of multimedia content in Alibaba.**<br>
