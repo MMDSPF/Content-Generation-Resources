@@ -51,6 +51,13 @@ NIPS, 2021.
 *H Cai, M Li, Q Zhang, MY Liu, S Han.*<br>
 CVPR, 2024.
 
+#### Diffusion
+
+**Layoutdiffusion: Controllable diffusion model for layout-to-image generation.**<br>
+*G Zheng, X Zhou, X Li, Z Qi, et al.*<br>
+CVPR, 2023.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf)]
+
 #### Applications
 
 **Intelligent design of multimedia content in Alibaba.**<br>
