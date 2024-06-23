@@ -82,6 +82,8 @@ Front Inform Technol Electron Eng, 2019, 20(12):1657-1664.
 *X Zheng, X Qiao, Y Cao, RWH Lau.*<br>
 TOG, 2019.
 
+##### Advertisment
+
 **Automatic synthesis of advertising images according to a specified style.**<br>
 *W. You, and et al.*<br>
 Front Inform Technol Electron Eng, 2020.
