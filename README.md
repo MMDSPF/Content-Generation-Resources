@@ -58,7 +58,12 @@ CVPR, 2024.
 CVPR, 2023.
 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf)]
 
-#### Fusion
+#### Composition
+
+**Making images real again: A comprehensive survey on deep image composition.**<br>
+*L Niu, W Cong, L Liu, Y Hong, B Zhang, J Liang, et al.*<br>
+arXiv, 2021.
+[[Paper](https://arxiv.org/pdf/2106.14490)]
 
 **Current advances and future perspectives of image fusion: A comprehensive review.**<br>
 *S Karim, G Tong, J Li, A Qadir, U Farooq, Y Yu .*<br>
