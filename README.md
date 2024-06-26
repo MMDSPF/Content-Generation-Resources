@@ -51,6 +51,12 @@ NIPS, 2021.
 *H Cai, M Li, Q Zhang, MY Liu, S Han.*<br>
 CVPR, 2024.
 
+**DialogGen: Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation.**<br>
+*M Huang, Y Long, X Deng, R Chu, J Xiong, X Liang, H Cheng, Q Lu, W Liu.*<br>
+arXiv:2403.08857, 2024.
+[[Paper](https://arxiv.org/pdf/2403.08857)]
+[[Github](https://hunyuan-dialoggen.github.io/)]
+
 #### Diffusion
 
 **Layoutdiffusion: Controllable diffusion model for layout-to-image generation.**<br>
@@ -171,6 +177,12 @@ arXiv:2405.10674, 2024.
 *J Cho, FD Puspitasari, S Zheng, J Zheng, LH Lee, TH Kim, CS Hong, C Zhang.*<br>
 arXiv:2403.05131, 2024.
 [[PDF](https://arxiv.org/pdf/2403.05131)]
+
+**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions.**<br>
+*Y Zhang, Y Kang, Z Zhang, X Ding, S Zhao, X Yue.*<br>
+arXiv:2402.03040, 2024.
+[[PDF](https://arxiv.org/pdf/2402.03040)]
+[[Github](https://invictus717.github.io/InteractiveVideo/)]
 
 ### Manipulation
 
