@@ -64,6 +64,12 @@ arXiv:2403.08857, 2024.
 CVPR, 2023.
 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf)]
 
+**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models.**<br>
+*JT Hoe, X Jiang, CS Chan, et al.*<br>
+CVPR, 2024.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Hoe_InteractDiffusion_Interaction_Control_in_Text-to-Image_Diffusion_Models_CVPR_2024_paper.pdf)]
+[[Github](https://jiuntian.github.io/interactdiffusion/)]
+
 #### Composition
 
 **Making images real again: A comprehensive survey on deep image composition.**<br>
